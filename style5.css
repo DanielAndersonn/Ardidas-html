@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.898);
+    color:white
+}
+
+.procurar{
+    position: absolute;
+    right: 0px;
+    cursor: pointer;
+    padding: 15px;
+}
+.carrinho{
+    width: 50px;
+    height:50px;
+    position: absolute;
+    right: 260px;
+    cursor: pointer;
+}
+.lupa{ width:30px;
+height:30px;
+position: absolute;
+right:0px;
+margin: 10px;cursor: pointer;}
+
+
+.perfil{
+
+    width: 300px;
+    height: 350px;
+    background-color:white;
+    color: black;
+    cursor: pointer;
+    margin: 30px;
+
+
+}
+
+.user{
+    width: 100px;
+    height: 100px ;
+    position: absolute;
+    left: 80px;
+    margin: 50px;
+}
+
+.Name{
+
+position: absolute;
+left: -80px;
+margin:200px;
+
+}
+
+
+p{
+    position: absolute;
+    right: 205px;
+    cursor: pointer;
+    margin: 60px;
+    
+}
+
+h2{
+    cursor: pointer;
+    position: absolute;
+    margin: 5px;
+    left:-2px;
+}
+
+footer{
+    background-color: white;
+   height: 150px;
+   color: black;
+   padding: 10px;
+   cursor: pointer;
+}

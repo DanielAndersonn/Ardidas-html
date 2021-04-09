@@ -1,0 +1,455 @@
+.procurar{
+    position: absolute;
+    right: 0px;
+    cursor: pointer;
+    padding: 15px;
+}
+.carrinho{
+    width: 50px;
+    height:50px;
+    position: absolute;
+    right: 260px;
+    cursor: pointer;
+}
+.lupa{ width:30px;
+height:30px;
+position: absolute;
+right:0px;
+margin: 10px;cursor: pointer;}
+
+p{
+    position: absolute;
+    right: 205px;
+    cursor: pointer;
+    margin: 60px;
+    
+}
+h1{
+    cursor: pointer;
+    position: absolute;
+    margin: 100px;
+    left:-90px;
+}
+.maconha{
+    position: absolute;
+    margin:5px ;
+    cursor:pointer;
+    left: 30px;
+}
+
+
+.menu-central ul {
+    float: right;
+ }
+ 
+ .menu-central ul li {
+     display: inline;
+    right: 400px;
+     font-size: 15px;
+     position: relative;
+     float: right;
+     padding: 50px;
+     cursor: pointer;
+ }
+ .menu-direito ul {
+    float: right;
+ }
+ 
+ .menu-direito ul li {
+     display: inline;
+     right: -300px;
+     font-size: 15px;
+     position: relative;
+     float: right;
+     cursor:pointer;
+     margin-top:  -50px;
+     padding: 30px;
+ }
+ .skate{
+
+width:50%;
+height:500px;
+position: absolute;
+margin: 150px;
+left: -150px;
+ }
+ .exercicio{
+position: absolute;
+right: -150px;
+margin: 150px;
+width:50%;
+height:500px;
+ }
+ 
+ .vestuário{
+position: absolute;
+margin: 500px;
+left: -598px;
+font-family: Arial, Helvetica, sans-serif;
+font: x-large;
+text-decoration:none;
+cursor: pointer;
+display: inline;
+padding: 150px;
+float: right;
+
+ }
+ 
+ .bone{
+     width:200px;
+    
+     
+ }
+ .Acessory{
+     position: absolute;
+     left: 200px;
+     margin-top: 10px;
+     text-decoration: underline;
+ }
+ .camisa{
+     width: 200px;
+     height:200px;
+     position: relative;
+     right: -100px;
+ }
+ .Tshirt{
+position: absolute;
+left: 500px;
+margin-top:10px ;
+text-decoration: underline;
+
+ }
+.tenis{
+
+    width: 200px;
+    height:200px;
+    position: relative;
+    right: -250px;
+}
+.Sneakers{
+    text-decoration: underline;
+    margin: 10px;
+    position: absolute;
+    right: -40px;
+}
+.preço{
+
+    width: 190px;
+    height:200px;
+    position:absolute;
+    right: -400px;
+    margin-top: -200px;
+
+}
+.discounts{
+    position: absolute;
+    margin: 10px;
+    text-decoration: underline;
+    right: -390px;
+}
+footer{
+
+     position: absolute;
+     margin: 1000px;
+     color: white;
+     background-color: red;
+     left: -994px;
+     width: 100%;
+     height: 150px;
+}
+
+h2{
+
+    position: absolute;
+     right: 500px;
+     font: x-large;
+}
+button{ 
+    position: absolute;
+    right: 550px;
+    margin: 60px;
+    cursor: pointer;
+    padding: 10px;
+}
+.top-product-css{
+
+   position: absolute;
+   margin: 1200px;
+   left: -1160px;
+   font-family: Arial, Helvetica, sans-serif;
+   font: x-large;
+}
+.bone1{
+    position: absolute;
+    margin: 1100px;
+    left: -1080px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+.bone2{
+
+    position: absolute;
+    margin: 1100px;
+    left: -800px;
+    cursor: pointer;
+    width: 200px;
+    height:200px ;
+
+}
+
+.bone3{
+
+    position: absolute;
+    margin: 1100px;
+    left: -500px;
+    cursor: pointer;
+    width: 200px;
+    height:200px ;
+
+}
+.bone4{
+
+    position: absolute;
+    margin: 1100px;
+    left: -250px;
+    cursor: pointer;
+    width: 200px;
+    height:200px ;
+
+
+}
+.bone5{
+
+    position: absolute;
+    margin: 1100px;
+    left: -10px;
+    cursor: pointer;
+    width: 150px;
+    height:150px ;
+
+
+
+}
+.pulseira1{
+    position: absolute;
+    margin: 1300px;
+    left: -1000px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.pulseira2{
+    position: absolute;
+    margin: 1300px;
+    left: -1250px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.pulseira3{
+    position: absolute;
+    margin: 1300px;
+    left: -680px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.pulseira4{
+    position: absolute;
+    margin: 1300px;
+    left: -400px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.pulseira5{
+    position: absolute;
+    margin: 1300px;
+    left: -200px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+.relogio1{
+
+    position: absolute;
+    margin: 1600px;
+    left: -1550px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.relogio2{
+
+    position: absolute;
+    margin: 1600px;
+    left: -1250px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.relogio3{
+
+    position: absolute;
+    margin: 1600px;
+    left: -980px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+.relogio4{
+
+    position: absolute;
+    margin: 1600px;
+    left: -700px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.relogio5{
+
+    position: absolute;
+    margin: 1600px;
+    left: -500px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.tenis0{
+    position: absolute;
+    margin: 1880px;
+    left: -2000px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.tenis1{
+    position: absolute;
+    margin: 1880px;
+    left: -1700px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+.tenis2{
+    position: absolute;
+    margin: 1880px;
+    left: -1400px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+.tenis3{
+    position: absolute;
+    margin: 1880px;
+    left: -1100px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.camisa0{
+    position: absolute;
+    margin: 2300px;
+    left: -2300px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.camisa2{
+    position: absolute;
+    margin: 2300px;
+    left: -2000px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+
+.camisa3{
+    position: absolute;
+    margin: 2300px;
+    left: -1800px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.camisa4{
+    position: absolute;
+    margin: 2300px;
+    left: -1600px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.camisa5{
+    position: absolute;
+    margin: 2300px;
+    left: -1400px;
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+}
+
+.footer2{
+
+
+    position: absolute;
+    margin: 2100px;
+   left: -2099px;
+   background-color: yellow;
+}
+.create{
+
+    
+    font: xx-large;
+  position: absolute;
+     right: 550px;
+    
+     
+}
+
+.rodape{
+
+position: relative;
+margin: 2800px;
+
+}
+.footer3{
+
+    position: absolute;
+    margin: 2250px;
+   left: -2250px;
+ background-color:rgb(54, 55, 56);
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
